@@ -1,6 +1,6 @@
 # Automatic Updates
 
-The website can be edited online in GitHub or offline (and be committed via git).
+This GitHub website can be edited online in GitHub or offline (and be committed via git).
 
 Some website pages i.e. papers.html, events.html, and members.html, can be automatically updated from Google Docs.
 Currently, the sync is done daily, and on-demand (via any update on the website).
